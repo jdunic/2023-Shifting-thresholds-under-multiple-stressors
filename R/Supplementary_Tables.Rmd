@@ -1,0 +1,35 @@
+---
+title: Supplementary Tables - working draft
+output:
+   word_document:
+    reference_docx: "word_styles_prelim_report.docx"
+
+---
+
+```{r, eval=FALSE, echo=FALSE}
+rmarkdown::render(input = 'R/Supplementary_Tables.Rmd', output_dir = "drafts")
+```
+
+
+**Table S1.** Summary of the number of studies of different types (mesocosm or field), 
+experimental approaches (laboratory, greenhouse, outdoor, experiment, or observation) 
+and predictor variability for the metric of eelgrass (*Zostera marina*) performance recorded. 
+Predictor variability refers to whether variation in light or temperature values 
+across experiments could be measured (= Variable) or had to be assumed to be constant 
+(see Fig. S1). The number of unique study-site-treatment combinations is given in parentheses.
+
+```{r, echo=FALSE}
+methods_table <- readRDS('../data_outputs/methods_table.RDS')
+methods_table
+```
+
+<br>
+
+**Table S2.** Catchall table for quick and updateable values that can be noted in 
+the results description of data section. Will most likely be removed or at least
+restructured
+
+```{r, echo=FALSE}
+data_description_table <- readRDS("../data_outputs/data_description_table.RDS")
+data_description_table
+```

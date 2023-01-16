@@ -1,0 +1,94 @@
+---
+title: Figures
+output:
+   word_document:
+    reference_docx: "word_styles_prelim_report.docx"
+
+---
+
+```{r, eval=FALSE, echo=FALSE}
+rmarkdown::render(input = here('R', 'Figures.Rmd'), output_dir = "drafts")
+```
+
+```{r, echo=FALSE}
+critical_values <- readRDS(here('data_outputs', 'critical_values.RDS'))
+
+gam_fit <- readRDS(here('data_outputs', 'gam_fit.RDS'))
+
+gam_fit_formula <- 
+   paste(str_squish(deparse(gam_fit$call[["formula"]])), collapse = " ") %>% 
+   gsub(pattern = "\\~", replacement = "\\~  ", x = .) %>% 
+   gsub(pattern = "\\+", replacement = "\\+  ")
+gam_fit_data <- toString(gam_fit$call[["data"]])
+gam_fit_method <- toString(gam_fit$call[["method"]])
+```
+
+![](../figures/Figure1_surface-with-ipcc-management-shifts.png){width=16.9cm}
+
+**Figure 1.** Predicted response surface of population growth rate of 
+eelgrass, *r*, (day^-1^), in response to the combined effect of temperature and
+light availability (measured as daily light integral, DLI). 
+(a) Response surface across all values of temperature and light. 
+Shades of blue indicate combinations of temperature and light that allow lateral 
+shoot growth while shades of red indicate conditions under which shoots die. 
+The colour scale has been truncated at -0.1 and 0.1 to improve visualisation of 
+the predicted values from a GAMM (i.e., three points > 0.1). 
+Points are observed population growth rates (shoot density change or lateral shoot production rates) from unique study-site-treatments and are jittered to improve visualisation of overlapping data. 
+Population growth rates are given for each contour line; the threshold for growth (contour *r = 0*) is highlighted in black. 
+(b) Response surface for a subset of temperature and light values to show how 
+the critical value of population growth rate, *r* = 0, varies with changing conditions. 
+Population size at current light and temperature levels (white circle) cannot be 
+maintained under warming scenarios unless accompanied by increases in light 
+availability.
+
+<br>
+
+
+
+![](../figures/Figure2_min-light.png){width=16.9cm}
+
+<br>
+
+**Figure 2.** Light performance curves of eelgrass, *Zostera marina*. 
+(a) Predicted fits of population growth rate by eelgrass, *r* (day^-1^), 
+in relation to light levels at different temperatures, shown (in ˚C) above each panel.
+The vertical dashed lines denote the minimum daily light integral, *DLI~r=0~*, at which 
+population growth rate = 0 for a given temperature. 
+The narrow temperature bins between 20 and 27˚C highlight the temperatures over which *DLI~r=0~* increases rapidly. 
+The shaded areas are 95% simultaneous confidence intervals from model fits. 
+(b) The relationship between *DLI~r=0~* and temperature and (c) between *DLI~r=rmax~* and temperature 
+as estimated from mean GAMM fits. 
+Uncertainty around the *DLI~r=0~* and *DLI~r=rmax~* estimates, in grey, indicates the 2.5% and 97.5% quantiles 
+of *DLI~r=0~* and *DLI~r=rmax~* estimated from simulating 1000 draws of light performance curves across 
+from the GAMM posterior distribution. To reduce the influence from high uncertainty at the tails of the predictor data ranges, we only estimated *DLI~r=0~* and *DLI~r=rmax~* for DLI < 26 mol m^-2^ day^-1^ and temperature > 8˚C.
+Colours in (b) and (c) correspond to the temperature bins in (a). 
+
+
+
+
+
+<br>
+
+![](../figures/Figure3_max-temp.png){width=16.9cm}
+
+**Figure 3.** Temperature performance curves of eelgrass, *Zostera marina*. 
+(a) Predicted fits of population growth rate by eelgrass, *r* (day^-1^), 
+in relation to temperature at variable daily light integral (DLI) levels.
+The vertical dashed lines denote the critical thermal maximum, *T~r=0~*, at which 
+population growth rate, *r* = 0, for a given light level. 
+The narrow light bins between 3 and 9 highlight the light values over which *T~r=0~* increases rapidly. 
+The shaded areas are 95% simultaneous confidence intervals from model fits. 
+(b) The relationship between *T~r=0~* and DLI and (c) *T~r=rmax~* and DLI, as estimated from mean GAMM fits. 
+Uncertainty around the *T~r=0~* and *T~r=rmax~* estimates, in grey, indicates the 2.5% and 97.5% quantiles 
+of *T~r=0~* and *T~r=rmax~* estimated from simulating 1000 draws of thermal performance curves across 
+from the GAMM posterior distribution. To reduce the influence from high uncertainty at the tails of the predictor data ranges, we only estimated *T~r=0~* and *T~r=rmax~* for DLI < 26 mol m^-2^ day^-1^ and temperature > 8˚C. 
+Colours in (b) and (c) correspond to the temperature bins in (a). 
+
+
+
+Figure 1. Predicted response surface of population growth rate of eelgrass (<i>Zostera marina</i>), <i>r</i> (day<sup>-1</sup>), in response to the combined effect of temperature and light availability (measured as daily light integral, DLI). (a) Response surface across all values of temperature and light. Shades of blue indicate combinations of temperature and light that allow lateral shoot growth while shades of red indicate conditions under which shoots die. The colour scale has been truncated at -0.1 and 0.1 to improve visualisation of the predicted values from a GAMM (i.e., three points > 0.1). Points are observed population growth rates (shoot density change or lateral shoot production rates) from unique study-site-treatments from published literature and are jittered to improve visualisation of overlapping data. Population growth rates are given for each contour line; the threshold for growth (contour <i>r</i> = 0) is highlighted in black. (b) Response surface for a subset of temperature and light values to show how the critical value of population growth rate, <i>r</i> = 0, varies with changing conditions. Population size at current light and temperature levels (white circle) cannot be maintained under warming scenarios unless accompanied by increases in light availability.
+
+Figure 2. Light performance curves of eelgrass, <i>Zostera marina</i>. (a) Predicted fits of population growth rate by eelgrass, <i>r</i> (day<sup>-1</sup>), in relation to light levels at different temperatures, shown (in ˚C) above each panel. The vertical dashed lines denote the minimum daily light integral, <i>DLI<sub>r=0</sub></i>, at which population growth rate = 0 for a given temperature. The narrow temperature bins between 20 and 27˚C highlight the temperatures over which <i>DLI<sub>r=0</sub></i> increases rapidly. The shaded areas are 95% simultaneous confidence intervals from model fits. (b) The relationship between <i>DLI<sub>r=0</sub></i> and temperature and (c) between <i>DLI<sub>r=rmax</sub></i> and temperature as estimated from mean GAMM fits. Uncertainty around the <i>DLI<sub>r=0</sub></i> and <i>DLI<sub>r=rmax</sub></i> estimates, in grey, indicates the 2.5% and 97.5% quantiles of <i>DLI<sub>r=0</sub></i> and <i>DLI<sub>r=rmax</sub></i> estimated from simulating 1000 draws of light performance curves across from the GAMM posterior distribution. To reduce the influence from high uncertainty at the tails of the predictor data ranges, we only estimated <i>DLI<sub>r=0</sub></i> and DLIr=rmax for DLI < 26 mol m<sup>-2</sup> day<sup>-1</sup> and temperature > 8˚C. Colours in (b) and (c) correspond to the temperature bins in (a).
+
+
+Figure 3. Temperature performance curves of eelgrass, <i>Zostera marina</i>. (a) Predicted fits of population growth rate by eelgrass, <i>r</i> (day<sup>-1</sup>), in relation to temperature at variable daily light integral (DLI) levels. The vertical dashed lines denote the critical thermal maximum, <i>T<sub>r=0</sub></i>, at which population growth rate, <i>r</i> = 0, for a given light level. The narrow light bins between 3 and 9 highlight the light values over which <i>T<sub>r=0</sub></i> increases rapidly. The shaded areas are 95% simultaneous confidence intervals from model fits. (b) The relationship between <i>T<sub>r=0</sub></i>and DLI and (c) <i>T<sub>r=rmax</sub></i> and DLI, as estimated from mean GAMM fits. Uncertainty around the <i>T<sub>r=0</sub></i> and Tr=rmax estimates, in grey, indicates the 2.5% and 97.5% quantiles of <i>T<sub>r=0</sub></i>and <i>T<sub>r=rmax</sub></i> estimated from simulating 1000 draws of thermal performance curves across from the GAMM posterior distribution. To reduce the influence from high uncertainty at the tails of the predictor data ranges, we only estimated <i>T<sub>r=0</sub></i> and <i>T<sub>r=rmax</sub></i> for DLI < 26 mol m<sup>-2</sup> day<sup>-1</sup> and temperature > 8˚C. Colours in (b) and (c) correspond to the DLI bins in (a).

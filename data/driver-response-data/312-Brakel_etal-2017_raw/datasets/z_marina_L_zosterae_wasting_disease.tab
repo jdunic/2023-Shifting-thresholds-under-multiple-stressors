@@ -1,0 +1,737 @@
+/* DATA DESCRIPTION:
+Citation:	Brakel, Janina (2016): Zostera marina wasting disease index of Labyrinthula zosterae inoculated plants at two nutrient levels. PANGAEA, https://doi.org/10.1594/PANGAEA.869863, 
+	In supplement to: Brakel, Janina; Reusch, Thorsten B H; Bockelmann, Anna-Christina (2017): Moderate virulence caused by the protist Labyrinthula zosterae in ecosystem foundation species Zostera marina under nutrient limitation. Marine Ecology Progress Series, 571, 97-108, https://doi.org/10.3354/meps12104
+Coverage:	DATE/TIME START: 2013-09-05T00:00:00 * DATE/TIME END: 2013-09-24T00:00:00
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Brakel, Janina (janina.brakel@sams.ac.uk)
+	Species (Species) * PI: Brakel, Janina (janina.brakel@sams.ac.uk)
+	Identification (ID) * PI: Brakel, Janina (janina.brakel@sams.ac.uk)
+	Treatment: nutrients (T:nutrients) * PI: Brakel, Janina (janina.brakel@sams.ac.uk) * COMMENT: initial mean ammonium concentration porewater [µmol/l]
+	Treatment (Treat) * PI: Brakel, Janina (janina.brakel@sams.ac.uk) * COMMENT: inoculation with Labyrinthula zosterae
+	Mesocosm label (Meso label) * PI: Brakel, Janina (janina.brakel@sams.ac.uk)
+	Time in days [days] (Time) * PI: Brakel, Janina (janina.brakel@sams.ac.uk) * COMMENT: post inoculation
+	Wasting disease index [%] (Wasting disease index) * PI: Brakel, Janina (janina.brakel@sams.ac.uk) * COMMENT: leaf 2
+	Wasting disease index [%] (Wasting disease index) * PI: Brakel, Janina (janina.brakel@sams.ac.uk) * COMMENT: leaf 3
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	5172 data points
+*/
+Date/Time	Species	ID	T:nutrients (initial mean ammonium concent...)	Treat (inoculation with Labyrinthula...)	Meso label	Time [days] (post inoculation)	Wasting disease index [%] (leaf 2)	Wasting disease index [%] (leaf 3)
+2013-09-05	Zostera marina	10A36	6	no	10	1	0	0
+2013-09-05	Zostera marina	10A38	6	no	10	1	0	0
+2013-09-05	Zostera marina	10A46	6	no	10	1	0	0
+2013-09-05	Zostera marina	10A55	6	no	10	1	0	0
+2013-09-05	Zostera marina	10A59	6	no	10	1	0	0
+2013-09-05	Zostera marina	10A68	6	no	10	1	0	0
+2013-09-05	Zostera marina	10B1	6	yes	10	1	1	1
+2013-09-05	Zostera marina	10B11	6	yes	10	1	1	1
+2013-09-05	Zostera marina	10B15	6	yes	10	1	1	1
+2013-09-05	Zostera marina	10B25	6	yes	10	1	1	1
+2013-09-05	Zostera marina	10B27	6	yes	10	1	1	1
+2013-09-05	Zostera marina	10B5	6	yes	10	1	1	1
+2013-09-05	Zostera marina	11A39	57	yes	11	1	1	1
+2013-09-05	Zostera marina	11A44	57	yes	11	1	1	1
+2013-09-05	Zostera marina	11A48	57	yes	11	1	1	1
+2013-09-05	Zostera marina	11A56	57	yes	11	1	1	1
+2013-09-05	Zostera marina	11A60	57	yes	11	1	1	1
+2013-09-05	Zostera marina	11A69	57	yes	11	1	1	10
+2013-09-05	Zostera marina	11B14	57	no	11	1	0	0
+2013-09-05	Zostera marina	11B18	57	no	11	1	0	0
+2013-09-05	Zostera marina	11B2	57	no	11	1	0	0
+2013-09-05	Zostera marina	11B26	57	no	11	1	0	0
+2013-09-05	Zostera marina	11B32	57	no	11	1	0	0
+2013-09-05	Zostera marina	11B6	57	no	11	1	0	0
+2013-09-05	Zostera marina	12A40	6	no	12	1	0	0
+2013-09-05	Zostera marina	12A47	6	no	12	1	0	0
+2013-09-05	Zostera marina	12A49	6	no	12	1	0	0
+2013-09-05	Zostera marina	12A58	6	no	12	1	0	0
+2013-09-05	Zostera marina	12A61	6	no	12	1	0	0
+2013-09-05	Zostera marina	12A70	6	no	12	1	0	0
+2013-09-05	Zostera marina	12B16	6	yes	12	1	1	1
+2013-09-05	Zostera marina	12B19	6	yes	12	1	1	1
+2013-09-05	Zostera marina	12B28	6	yes	12	1	1	1
+2013-09-05	Zostera marina	12B3	6	yes	12	1	1	1
+2013-09-05	Zostera marina	12B33	6	yes	12	1	1	1
+2013-09-05	Zostera marina	12B8	6	yes	12	1	1	1
+2013-09-05	Zostera marina	5A41	57	yes	5	1	1	1
+2013-09-05	Zostera marina	5A50	57	yes	5	1	1	1
+2013-09-05	Zostera marina	5A51	57	yes	5	1	1	1
+2013-09-05	Zostera marina	5A62	57	yes	5	1	1	1
+2013-09-05	Zostera marina	5A63	57	yes	5	1	1	1
+2013-09-05	Zostera marina	5A71	57	yes	5	1	1	1
+2013-09-05	Zostera marina	5B10	57	no	5	1	0	0
+2013-09-05	Zostera marina	5B17	57	no	5	1	0	0
+2013-09-05	Zostera marina	5B21	57	no	5	1	0	0
+2013-09-05	Zostera marina	5B29	57	no	5	1	0	0
+2013-09-05	Zostera marina	5B34	57	no	5	1	0	0
+2013-09-05	Zostera marina	5B4	57	no	5	1	0	0
+2013-09-05	Zostera marina	6A43	6	no	6	1	0	0
+2013-09-05	Zostera marina	6A52	6	no	6	1	0	0
+2013-09-05	Zostera marina	6A54	6	no	6	1	0	0
+2013-09-05	Zostera marina	6A64	6	no	6	1	0	0
+2013-09-05	Zostera marina	6A65	6	no	6	1	0	0
+2013-09-05	Zostera marina	6A72	6	no	6	1	0	0
+2013-09-05	Zostera marina	6B12	6	yes	6	1	1	1
+2013-09-05	Zostera marina	6B20	6	yes	6	1	1	1
+2013-09-05	Zostera marina	6B22	6	yes	6	1	1	1
+2013-09-05	Zostera marina	6B30	6	yes	6	1	1	1
+2013-09-05	Zostera marina	6B35	6	yes	6	1	1	1
+2013-09-05	Zostera marina	6B7	6	yes	6	1	1	1
+2013-09-05	Zostera marina	8A42	57	yes	8	1	1	1
+2013-09-05	Zostera marina	8A45	57	yes	8	1	1	1
+2013-09-05	Zostera marina	8A53	57	yes	8	1	1	1
+2013-09-05	Zostera marina	8A57	57	yes	8	1	1	1
+2013-09-05	Zostera marina	8A66	57	yes	8	1	1	1
+2013-09-05	Zostera marina	8A67	57	yes	8	1	1	1
+2013-09-05	Zostera marina	8B13	57	no	8	1	0	0
+2013-09-05	Zostera marina	8B23	57	no	8	1	0	0
+2013-09-05	Zostera marina	8B24	57	no	8	1	0	0
+2013-09-05	Zostera marina	8B31	57	no	8	1	0	0
+2013-09-05	Zostera marina	8B37	57	no	8	1	0	0
+2013-09-05	Zostera marina	8B9	57	no	8	1	0	0
+2013-09-06	Zostera marina	10A36	6	no	10	2	0	0
+2013-09-06	Zostera marina	10A38	6	no	10	2	0	0
+2013-09-06	Zostera marina	10A46	6	no	10	2	0	0
+2013-09-06	Zostera marina	10A55	6	no	10	2	0	0
+2013-09-06	Zostera marina	10A59	6	no	10	2	0	0
+2013-09-06	Zostera marina	10A68	6	no	10	2	0	0
+2013-09-06	Zostera marina	10B1	6	yes	10	2	25	
+2013-09-06	Zostera marina	10B11	6	yes	10	2	1	10
+2013-09-06	Zostera marina	10B15	6	yes	10	2	10	10
+2013-09-06	Zostera marina	10B25	6	yes	10	2	10	10
+2013-09-06	Zostera marina	10B27	6	yes	10	2	10	1
+2013-09-06	Zostera marina	10B5	6	yes	10	2	10	10
+2013-09-06	Zostera marina	11A39	57	yes	11	2	10	10
+2013-09-06	Zostera marina	11A44	57	yes	11	2	10	1
+2013-09-06	Zostera marina	11A48	57	yes	11	2	1	10
+2013-09-06	Zostera marina	11A56	57	yes	11	2	10	10
+2013-09-06	Zostera marina	11A60	57	yes	11	2	1	10
+2013-09-06	Zostera marina	11A69	57	yes	11	2	1	
+2013-09-06	Zostera marina	11B14	57	no	11	2	0	0
+2013-09-06	Zostera marina	11B18	57	no	11	2	0	0
+2013-09-06	Zostera marina	11B2	57	no	11	2	0	0
+2013-09-06	Zostera marina	11B26	57	no	11	2	0	0
+2013-09-06	Zostera marina	11B32	57	no	11	2	0	0
+2013-09-06	Zostera marina	11B6	57	no	11	2	0	0
+2013-09-06	Zostera marina	12A40	6	no	12	2	0	0
+2013-09-06	Zostera marina	12A47	6	no	12	2	0	0
+2013-09-06	Zostera marina	12A49	6	no	12	2	0	0
+2013-09-06	Zostera marina	12A58	6	no	12	2	0	0
+2013-09-06	Zostera marina	12A61	6	no	12	2	0	0
+2013-09-06	Zostera marina	12A70	6	no	12	2	0	0
+2013-09-06	Zostera marina	12B16	6	yes	12	2	10	10
+2013-09-06	Zostera marina	12B19	6	yes	12	2	10	25
+2013-09-06	Zostera marina	12B28	6	yes	12	2	10	10
+2013-09-06	Zostera marina	12B3	6	yes	12	2	25	25
+2013-09-06	Zostera marina	12B33	6	yes	12	2	1	10
+2013-09-06	Zostera marina	12B8	6	yes	12	2	10	25
+2013-09-06	Zostera marina	5A41	57	yes	5	2	10	1
+2013-09-06	Zostera marina	5A50	57	yes	5	2	10	1
+2013-09-06	Zostera marina	5A51	57	yes	5	2	1	1
+2013-09-06	Zostera marina	5A62	57	yes	5	2	1	1
+2013-09-06	Zostera marina	5A63	57	yes	5	2	10	1
+2013-09-06	Zostera marina	5A71	57	yes	5	2	10	10
+2013-09-06	Zostera marina	5B10	57	no	5	2	0	0
+2013-09-06	Zostera marina	5B17	57	no	5	2	0	0
+2013-09-06	Zostera marina	5B21	57	no	5	2	0	0
+2013-09-06	Zostera marina	5B29	57	no	5	2	0	0
+2013-09-06	Zostera marina	5B34	57	no	5	2	0	0
+2013-09-06	Zostera marina	5B4	57	no	5	2	0	0
+2013-09-06	Zostera marina	6A43	6	no	6	2	0	0
+2013-09-06	Zostera marina	6A52	6	no	6	2	0	0
+2013-09-06	Zostera marina	6A54	6	no	6	2	0	0
+2013-09-06	Zostera marina	6A64	6	no	6	2	0	0
+2013-09-06	Zostera marina	6A65	6	no	6	2	0	0
+2013-09-06	Zostera marina	6A72	6	no	6	2	0	0
+2013-09-06	Zostera marina	6B12	6	yes	6	2	10	10
+2013-09-06	Zostera marina	6B20	6	yes	6	2	10	10
+2013-09-06	Zostera marina	6B22	6	yes	6	2	1	1
+2013-09-06	Zostera marina	6B30	6	yes	6	2	10	10
+2013-09-06	Zostera marina	6B35	6	yes	6	2	10	1
+2013-09-06	Zostera marina	6B7	6	yes	6	2	10	10
+2013-09-06	Zostera marina	8A42	57	yes	8	2	10	10
+2013-09-06	Zostera marina	8A45	57	yes	8	2	10	1
+2013-09-06	Zostera marina	8A53	57	yes	8	2	10	10
+2013-09-06	Zostera marina	8A57	57	yes	8	2	10	10
+2013-09-06	Zostera marina	8A66	57	yes	8	2	10	10
+2013-09-06	Zostera marina	8A67	57	yes	8	2	10	10
+2013-09-06	Zostera marina	8B13	57	no	8	2	0	0
+2013-09-06	Zostera marina	8B23	57	no	8	2	0	0
+2013-09-06	Zostera marina	8B24	57	no	8	2	0	0
+2013-09-06	Zostera marina	8B31	57	no	8	2	0	0
+2013-09-06	Zostera marina	8B37	57	no	8	2	0	0
+2013-09-06	Zostera marina	8B9	57	no	8	2	0	0
+2013-09-07	Zostera marina	10A36	6	no	10	3		
+2013-09-07	Zostera marina	10A38	6	no	10	3		
+2013-09-07	Zostera marina	10A46	6	no	10	3		
+2013-09-07	Zostera marina	10A55	6	no	10	3	0	0
+2013-09-07	Zostera marina	10A59	6	no	10	3	0	0
+2013-09-07	Zostera marina	10A68	6	no	10	3	0	0
+2013-09-07	Zostera marina	10B1	6	yes	10	3		
+2013-09-07	Zostera marina	10B11	6	yes	10	3		
+2013-09-07	Zostera marina	10B15	6	yes	10	3	25	10
+2013-09-07	Zostera marina	10B25	6	yes	10	3	25	10
+2013-09-07	Zostera marina	10B27	6	yes	10	3	25	10
+2013-09-07	Zostera marina	10B5	6	yes	10	3		
+2013-09-07	Zostera marina	11A39	57	yes	11	3		
+2013-09-07	Zostera marina	11A44	57	yes	11	3		
+2013-09-07	Zostera marina	11A48	57	yes	11	3	10	10
+2013-09-07	Zostera marina	11A56	57	yes	11	3	10	10
+2013-09-07	Zostera marina	11A60	57	yes	11	3	10	1
+2013-09-07	Zostera marina	11A69	57	yes	11	3		
+2013-09-07	Zostera marina	11B14	57	no	11	3		
+2013-09-07	Zostera marina	11B18	57	no	11	3	0	0
+2013-09-07	Zostera marina	11B2	57	no	11	3		
+2013-09-07	Zostera marina	11B26	57	no	11	3	0	0
+2013-09-07	Zostera marina	11B32	57	no	11	3	0	0
+2013-09-07	Zostera marina	11B6	57	no	11	3		
+2013-09-07	Zostera marina	12A40	6	no	12	3		
+2013-09-07	Zostera marina	12A47	6	no	12	3		
+2013-09-07	Zostera marina	12A49	6	no	12	3		
+2013-09-07	Zostera marina	12A58	6	no	12	3	0	0
+2013-09-07	Zostera marina	12A61	6	no	12	3	0	0
+2013-09-07	Zostera marina	12A70	6	no	12	3	0	0
+2013-09-07	Zostera marina	12B16	6	yes	12	3		
+2013-09-07	Zostera marina	12B19	6	yes	12	3	10	25
+2013-09-07	Zostera marina	12B28	6	yes	12	3	10	10
+2013-09-07	Zostera marina	12B3	6	yes	12	3		
+2013-09-07	Zostera marina	12B33	6	yes	12	3	1	25
+2013-09-07	Zostera marina	12B8	6	yes	12	3		
+2013-09-07	Zostera marina	5A41	57	yes	5	3		
+2013-09-07	Zostera marina	5A50	57	yes	5	3		
+2013-09-07	Zostera marina	5A51	57	yes	5	3		
+2013-09-07	Zostera marina	5A62	57	yes	5	3	10	10
+2013-09-07	Zostera marina	5A63	57	yes	5	3	10	10
+2013-09-07	Zostera marina	5A71	57	yes	5	3	10	10
+2013-09-07	Zostera marina	5B10	57	no	5	3		
+2013-09-07	Zostera marina	5B17	57	no	5	3		
+2013-09-07	Zostera marina	5B21	57	no	5	3	0	0
+2013-09-07	Zostera marina	5B29	57	no	5	3	0	0
+2013-09-07	Zostera marina	5B34	57	no	5	3	0	0
+2013-09-07	Zostera marina	5B4	57	no	5	3		
+2013-09-07	Zostera marina	6A43	6	no	6	3		
+2013-09-07	Zostera marina	6A52	6	no	6	3		
+2013-09-07	Zostera marina	6A54	6	no	6	3		
+2013-09-07	Zostera marina	6A64	6	no	6	3	0	0
+2013-09-07	Zostera marina	6A65	6	no	6	3	0	0
+2013-09-07	Zostera marina	6A72	6	no	6	3	0	0
+2013-09-07	Zostera marina	6B12	6	yes	6	3		
+2013-09-07	Zostera marina	6B20	6	yes	6	3		
+2013-09-07	Zostera marina	6B22	6	yes	6	3	25	10
+2013-09-07	Zostera marina	6B30	6	yes	6	3	25	10
+2013-09-07	Zostera marina	6B35	6	yes	6	3	10	10
+2013-09-07	Zostera marina	6B7	6	yes	6	3		
+2013-09-07	Zostera marina	8A42	57	yes	8	3	10	10
+2013-09-07	Zostera marina	8A45	57	yes	8	3		
+2013-09-07	Zostera marina	8A53	57	yes	8	3		
+2013-09-07	Zostera marina	8A57	57	yes	8	3		
+2013-09-07	Zostera marina	8A66	57	yes	8	3	10	10
+2013-09-07	Zostera marina	8A67	57	yes	8	3	10	10
+2013-09-07	Zostera marina	8B13	57	no	8	3		
+2013-09-07	Zostera marina	8B23	57	no	8	3		
+2013-09-07	Zostera marina	8B24	57	no	8	3	0	0
+2013-09-07	Zostera marina	8B31	57	no	8	3	0	0
+2013-09-07	Zostera marina	8B37	57	no	8	3	0	0
+2013-09-07	Zostera marina	8B9	57	no	8	3		
+2013-09-09	Zostera marina	10A36	6	no	10	5		
+2013-09-09	Zostera marina	10A38	6	no	10	5		
+2013-09-09	Zostera marina	10A46	6	no	10	5		
+2013-09-09	Zostera marina	10A55	6	no	10	5	0	0
+2013-09-09	Zostera marina	10A59	6	no	10	5	0	0
+2013-09-09	Zostera marina	10A68	6	no	10	5	0	0
+2013-09-09	Zostera marina	10B1	6	yes	10	5		
+2013-09-09	Zostera marina	10B11	6	yes	10	5		
+2013-09-09	Zostera marina	10B15	6	yes	10	5	25	25
+2013-09-09	Zostera marina	10B25	6	yes	10	5	25	25
+2013-09-09	Zostera marina	10B27	6	yes	10	5	25	25
+2013-09-09	Zostera marina	10B5	6	yes	10	5		
+2013-09-09	Zostera marina	11A39	57	yes	11	5		
+2013-09-09	Zostera marina	11A44	57	yes	11	5		
+2013-09-09	Zostera marina	11A48	57	yes	11	5	10	25
+2013-09-09	Zostera marina	11A56	57	yes	11	5	10	10
+2013-09-09	Zostera marina	11A60	57	yes	11	5	50	1
+2013-09-09	Zostera marina	11A69	57	yes	11	5		
+2013-09-09	Zostera marina	11B14	57	no	11	5		
+2013-09-09	Zostera marina	11B18	57	no	11	5	0	0
+2013-09-09	Zostera marina	11B2	57	no	11	5		
+2013-09-09	Zostera marina	11B26	57	no	11	5	0	0
+2013-09-09	Zostera marina	11B32	57	no	11	5	0	0
+2013-09-09	Zostera marina	11B6	57	no	11	5		
+2013-09-09	Zostera marina	12A40	6	no	12	5		
+2013-09-09	Zostera marina	12A47	6	no	12	5		
+2013-09-09	Zostera marina	12A49	6	no	12	5		
+2013-09-09	Zostera marina	12A58	6	no	12	5	0	0
+2013-09-09	Zostera marina	12A61	6	no	12	5	0	0
+2013-09-09	Zostera marina	12A70	6	no	12	5	0	0
+2013-09-09	Zostera marina	12B16	6	yes	12	5		
+2013-09-09	Zostera marina	12B19	6	yes	12	5	10	50
+2013-09-09	Zostera marina	12B28	6	yes	12	5	25	25
+2013-09-09	Zostera marina	12B3	6	yes	12	5		
+2013-09-09	Zostera marina	12B33	6	yes	12	5	10	25
+2013-09-09	Zostera marina	12B8	6	yes	12	5		
+2013-09-09	Zostera marina	5A41	57	yes	5	5		
+2013-09-09	Zostera marina	5A50	57	yes	5	5		
+2013-09-09	Zostera marina	5A51	57	yes	5	5		
+2013-09-09	Zostera marina	5A62	57	yes	5	5	25	25
+2013-09-09	Zostera marina	5A63	57	yes	5	5	25	25
+2013-09-09	Zostera marina	5A71	57	yes	5	5	25	25
+2013-09-09	Zostera marina	5B10	57	no	5	5		
+2013-09-09	Zostera marina	5B17	57	no	5	5		
+2013-09-09	Zostera marina	5B21	57	no	5	5	0	0
+2013-09-09	Zostera marina	5B29	57	no	5	5	0	0
+2013-09-09	Zostera marina	5B34	57	no	5	5	0	0
+2013-09-09	Zostera marina	5B4	57	no	5	5		
+2013-09-09	Zostera marina	6A43	6	no	6	5		
+2013-09-09	Zostera marina	6A52	6	no	6	5		
+2013-09-09	Zostera marina	6A54	6	no	6	5		
+2013-09-09	Zostera marina	6A64	6	no	6	5	0	0
+2013-09-09	Zostera marina	6A65	6	no	6	5	0	0
+2013-09-09	Zostera marina	6A72	6	no	6	5	0	0
+2013-09-09	Zostera marina	6B12	6	yes	6	5		
+2013-09-09	Zostera marina	6B20	6	yes	6	5		
+2013-09-09	Zostera marina	6B22	6	yes	6	5	50	25
+2013-09-09	Zostera marina	6B30	6	yes	6	5	50	50
+2013-09-09	Zostera marina	6B35	6	yes	6	5	25	25
+2013-09-09	Zostera marina	6B7	6	yes	6	5		
+2013-09-09	Zostera marina	8A42	57	yes	8	5	25	25
+2013-09-09	Zostera marina	8A45	57	yes	8	5		
+2013-09-09	Zostera marina	8A53	57	yes	8	5		
+2013-09-09	Zostera marina	8A57	57	yes	8	5		
+2013-09-09	Zostera marina	8A66	57	yes	8	5	25	25
+2013-09-09	Zostera marina	8A67	57	yes	8	5	10	10
+2013-09-09	Zostera marina	8B13	57	no	8	5		
+2013-09-09	Zostera marina	8B23	57	no	8	5		
+2013-09-09	Zostera marina	8B24	57	no	8	5	0	0
+2013-09-09	Zostera marina	8B31	57	no	8	5	0	0
+2013-09-09	Zostera marina	8B37	57	no	8	5	0	0
+2013-09-09	Zostera marina	8B9	57	no	8	5		
+2013-09-11	Zostera marina	10A36	6	no	10	7		
+2013-09-11	Zostera marina	10A38	6	no	10	7		
+2013-09-11	Zostera marina	10A46	6	no	10	7		
+2013-09-11	Zostera marina	10A55	6	no	10	7	0	0
+2013-09-11	Zostera marina	10A59	6	no	10	7	0	0
+2013-09-11	Zostera marina	10A68	6	no	10	7	0	0
+2013-09-11	Zostera marina	10B1	6	yes	10	7		
+2013-09-11	Zostera marina	10B11	6	yes	10	7		
+2013-09-11	Zostera marina	10B15	6	yes	10	7	25	50
+2013-09-11	Zostera marina	10B25	6	yes	10	7	50	50
+2013-09-11	Zostera marina	10B27	6	yes	10	7	75	25
+2013-09-11	Zostera marina	10B5	6	yes	10	7		
+2013-09-11	Zostera marina	11A39	57	yes	11	7		
+2013-09-11	Zostera marina	11A44	57	yes	11	7		
+2013-09-11	Zostera marina	11A48	57	yes	11	7	25	25
+2013-09-11	Zostera marina	11A56	57	yes	11	7	25	25
+2013-09-11	Zostera marina	11A60	57	yes	11	7	75	10
+2013-09-11	Zostera marina	11A69	57	yes	11	7		
+2013-09-11	Zostera marina	11B14	57	no	11	7		
+2013-09-11	Zostera marina	11B18	57	no	11	7	0	0
+2013-09-11	Zostera marina	11B2	57	no	11	7		
+2013-09-11	Zostera marina	11B26	57	no	11	7	0	0
+2013-09-11	Zostera marina	11B32	57	no	11	7	1	0
+2013-09-11	Zostera marina	11B6	57	no	11	7		
+2013-09-11	Zostera marina	12A40	6	no	12	7		
+2013-09-11	Zostera marina	12A47	6	no	12	7		
+2013-09-11	Zostera marina	12A49	6	no	12	7		
+2013-09-11	Zostera marina	12A58	6	no	12	7	0	0
+2013-09-11	Zostera marina	12A61	6	no	12	7	0	0
+2013-09-11	Zostera marina	12A70	6	no	12	7	0	0
+2013-09-11	Zostera marina	12B16	6	yes	12	7		
+2013-09-11	Zostera marina	12B19	6	yes	12	7		50
+2013-09-11	Zostera marina	12B28	6	yes	12	7	25	50
+2013-09-11	Zostera marina	12B3	6	yes	12	7		
+2013-09-11	Zostera marina	12B33	6	yes	12	7	10	50
+2013-09-11	Zostera marina	12B8	6	yes	12	7		
+2013-09-11	Zostera marina	5A41	57	yes	5	7		
+2013-09-11	Zostera marina	5A50	57	yes	5	7		
+2013-09-11	Zostera marina	5A51	57	yes	5	7		
+2013-09-11	Zostera marina	5A62	57	yes	5	7	25	50
+2013-09-11	Zostera marina	5A63	57	yes	5	7	25	50
+2013-09-11	Zostera marina	5A71	57	yes	5	7	50	25
+2013-09-11	Zostera marina	5B10	57	no	5	7		
+2013-09-11	Zostera marina	5B17	57	no	5	7		
+2013-09-11	Zostera marina	5B21	57	no	5	7	0	0
+2013-09-11	Zostera marina	5B29	57	no	5	7	0	0
+2013-09-11	Zostera marina	5B34	57	no	5	7	0	0
+2013-09-11	Zostera marina	5B4	57	no	5	7		
+2013-09-11	Zostera marina	6A43	6	no	6	7		
+2013-09-11	Zostera marina	6A52	6	no	6	7		
+2013-09-11	Zostera marina	6A54	6	no	6	7		
+2013-09-11	Zostera marina	6A64	6	no	6	7	0	0
+2013-09-11	Zostera marina	6A65	6	no	6	7	0	0
+2013-09-11	Zostera marina	6A72	6	no	6	7	0	0
+2013-09-11	Zostera marina	6B12	6	yes	6	7		
+2013-09-11	Zostera marina	6B20	6	yes	6	7		
+2013-09-11	Zostera marina	6B22	6	yes	6	7	75	25
+2013-09-11	Zostera marina	6B30	6	yes	6	7	50	75
+2013-09-11	Zostera marina	6B35	6	yes	6	7	25	25
+2013-09-11	Zostera marina	6B7	6	yes	6	7		
+2013-09-11	Zostera marina	8A42	57	yes	8	7	25	25
+2013-09-11	Zostera marina	8A45	57	yes	8	7		
+2013-09-11	Zostera marina	8A53	57	yes	8	7		
+2013-09-11	Zostera marina	8A57	57	yes	8	7		
+2013-09-11	Zostera marina	8A66	57	yes	8	7	25	25
+2013-09-11	Zostera marina	8A67	57	yes	8	7	10	25
+2013-09-11	Zostera marina	8B13	57	no	8	7		
+2013-09-11	Zostera marina	8B23	57	no	8	7		
+2013-09-11	Zostera marina	8B24	57	no	8	7	0	0
+2013-09-11	Zostera marina	8B31	57	no	8	7	0	0
+2013-09-11	Zostera marina	8B37	57	no	8	7	0	0
+2013-09-11	Zostera marina	8B9	57	no	8	7		
+2013-09-13	Zostera marina	10A36	6	no	10	9		
+2013-09-13	Zostera marina	10A38	6	no	10	9		
+2013-09-13	Zostera marina	10A46	6	no	10	9		
+2013-09-13	Zostera marina	10A55	6	no	10	9	0	0
+2013-09-13	Zostera marina	10A59	6	no	10	9	0	0
+2013-09-13	Zostera marina	10A68	6	no	10	9	0	0
+2013-09-13	Zostera marina	10B1	6	yes	10	9		
+2013-09-13	Zostera marina	10B11	6	yes	10	9		
+2013-09-13	Zostera marina	10B15	6	yes	10	9	50	50
+2013-09-13	Zostera marina	10B25	6	yes	10	9	50	50
+2013-09-13	Zostera marina	10B27	6	yes	10	9	75	75
+2013-09-13	Zostera marina	10B5	6	yes	10	9		
+2013-09-13	Zostera marina	11A39	57	yes	11	9		
+2013-09-13	Zostera marina	11A44	57	yes	11	9		
+2013-09-13	Zostera marina	11A48	57	yes	11	9	25	50
+2013-09-13	Zostera marina	11A56	57	yes	11	9	25	25
+2013-09-13	Zostera marina	11A60	57	yes	11	9	75	25
+2013-09-13	Zostera marina	11A69	57	yes	11	9		
+2013-09-13	Zostera marina	11B14	57	no	11	9		
+2013-09-13	Zostera marina	11B18	57	no	11	9	0	0
+2013-09-13	Zostera marina	11B2	57	no	11	9		
+2013-09-13	Zostera marina	11B26	57	no	11	9	0	0
+2013-09-13	Zostera marina	11B32	57	no	11	9	1	0
+2013-09-13	Zostera marina	11B6	57	no	11	9		
+2013-09-13	Zostera marina	12A40	6	no	12	9		
+2013-09-13	Zostera marina	12A47	6	no	12	9		
+2013-09-13	Zostera marina	12A49	6	no	12	9		
+2013-09-13	Zostera marina	12A58	6	no	12	9	0	0
+2013-09-13	Zostera marina	12A61	6	no	12	9	0	0
+2013-09-13	Zostera marina	12A70	6	no	12	9	0	0
+2013-09-13	Zostera marina	12B16	6	yes	12	9		
+2013-09-13	Zostera marina	12B19	6	yes	12	9		75
+2013-09-13	Zostera marina	12B28	6	yes	12	9	50	50
+2013-09-13	Zostera marina	12B3	6	yes	12	9		
+2013-09-13	Zostera marina	12B33	6	yes	12	9	10	50
+2013-09-13	Zostera marina	12B8	6	yes	12	9		
+2013-09-13	Zostera marina	5A41	57	yes	5	9		
+2013-09-13	Zostera marina	5A50	57	yes	5	9		
+2013-09-13	Zostera marina	5A51	57	yes	5	9		
+2013-09-13	Zostera marina	5A62	57	yes	5	9	50	50
+2013-09-13	Zostera marina	5A63	57	yes	5	9	50	50
+2013-09-13	Zostera marina	5A71	57	yes	5	9	50	50
+2013-09-13	Zostera marina	5B10	57	no	5	9		
+2013-09-13	Zostera marina	5B17	57	no	5	9		
+2013-09-13	Zostera marina	5B21	57	no	5	9	0	0
+2013-09-13	Zostera marina	5B29	57	no	5	9	0	0
+2013-09-13	Zostera marina	5B34	57	no	5	9	0	0
+2013-09-13	Zostera marina	5B4	57	no	5	9		
+2013-09-13	Zostera marina	6A43	6	no	6	9		
+2013-09-13	Zostera marina	6A52	6	no	6	9		
+2013-09-13	Zostera marina	6A54	6	no	6	9		
+2013-09-13	Zostera marina	6A64	6	no	6	9	0	0
+2013-09-13	Zostera marina	6A65	6	no	6	9	0	0
+2013-09-13	Zostera marina	6A72	6	no	6	9	0	0
+2013-09-13	Zostera marina	6B12	6	yes	6	9		
+2013-09-13	Zostera marina	6B20	6	yes	6	9		
+2013-09-13	Zostera marina	6B22	6	yes	6	9	75	50
+2013-09-13	Zostera marina	6B30	6	yes	6	9	50	75
+2013-09-13	Zostera marina	6B35	6	yes	6	9	25	25
+2013-09-13	Zostera marina	6B7	6	yes	6	9		
+2013-09-13	Zostera marina	8A42	57	yes	8	9	50	50
+2013-09-13	Zostera marina	8A45	57	yes	8	9		
+2013-09-13	Zostera marina	8A53	57	yes	8	9		
+2013-09-13	Zostera marina	8A57	57	yes	8	9		
+2013-09-13	Zostera marina	8A66	57	yes	8	9	25	25
+2013-09-13	Zostera marina	8A67	57	yes	8	9	10	25
+2013-09-13	Zostera marina	8B13	57	no	8	9		
+2013-09-13	Zostera marina	8B23	57	no	8	9		
+2013-09-13	Zostera marina	8B24	57	no	8	9	0	0
+2013-09-13	Zostera marina	8B31	57	no	8	9	0	0
+2013-09-13	Zostera marina	8B37	57	no	8	9	0	0
+2013-09-13	Zostera marina	8B9	57	no	8	9		
+2013-09-16	Zostera marina	10A36	6	no	10	12		
+2013-09-16	Zostera marina	10A38	6	no	10	12		
+2013-09-16	Zostera marina	10A46	6	no	10	12		
+2013-09-16	Zostera marina	10A55	6	no	10	12	0	0
+2013-09-16	Zostera marina	10A59	6	no	10	12	0	0
+2013-09-16	Zostera marina	10A68	6	no	10	12	0	0
+2013-09-16	Zostera marina	10B1	6	yes	10	12		
+2013-09-16	Zostera marina	10B11	6	yes	10	12		
+2013-09-16	Zostera marina	10B15	6	yes	10	12	50	75
+2013-09-16	Zostera marina	10B25	6	yes	10	12	75	75
+2013-09-16	Zostera marina	10B27	6	yes	10	12	75	75
+2013-09-16	Zostera marina	10B5	6	yes	10	12		
+2013-09-16	Zostera marina	11A39	57	yes	11	12		
+2013-09-16	Zostera marina	11A44	57	yes	11	12		
+2013-09-16	Zostera marina	11A48	57	yes	11	12	50	75
+2013-09-16	Zostera marina	11A56	57	yes	11	12	25	50
+2013-09-16	Zostera marina	11A60	57	yes	11	12	75	25
+2013-09-16	Zostera marina	11A69	57	yes	11	12		
+2013-09-16	Zostera marina	11B14	57	no	11	12		
+2013-09-16	Zostera marina	11B18	57	no	11	12	0	0
+2013-09-16	Zostera marina	11B2	57	no	11	12		
+2013-09-16	Zostera marina	11B26	57	no	11	12	0	0
+2013-09-16	Zostera marina	11B32	57	no	11	12	1	0
+2013-09-16	Zostera marina	11B6	57	no	11	12		
+2013-09-16	Zostera marina	12A40	6	no	12	12		
+2013-09-16	Zostera marina	12A47	6	no	12	12		
+2013-09-16	Zostera marina	12A49	6	no	12	12		
+2013-09-16	Zostera marina	12A58	6	no	12	12	0	0
+2013-09-16	Zostera marina	12A61	6	no	12	12	0	0
+2013-09-16	Zostera marina	12A70	6	no	12	12	0	0
+2013-09-16	Zostera marina	12B16	6	yes	12	12		
+2013-09-16	Zostera marina	12B19	6	yes	12	12	75	75
+2013-09-16	Zostera marina	12B28	6	yes	12	12	50	50
+2013-09-16	Zostera marina	12B3	6	yes	12	12		
+2013-09-16	Zostera marina	12B33	6	yes	12	12	25	50
+2013-09-16	Zostera marina	12B8	6	yes	12	12		
+2013-09-16	Zostera marina	5A41	57	yes	5	12		
+2013-09-16	Zostera marina	5A50	57	yes	5	12		
+2013-09-16	Zostera marina	5A51	57	yes	5	12		
+2013-09-16	Zostera marina	5A62	57	yes	5	12	50	75
+2013-09-16	Zostera marina	5A63	57	yes	5	12	50	75
+2013-09-16	Zostera marina	5A71	57	yes	5	12	50	75
+2013-09-16	Zostera marina	5B10	57	no	5	12		
+2013-09-16	Zostera marina	5B17	57	no	5	12		
+2013-09-16	Zostera marina	5B21	57	no	5	12	0	0
+2013-09-16	Zostera marina	5B29	57	no	5	12	0	0
+2013-09-16	Zostera marina	5B34	57	no	5	12	0	0
+2013-09-16	Zostera marina	5B4	57	no	5	12		
+2013-09-16	Zostera marina	6A43	6	no	6	12		
+2013-09-16	Zostera marina	6A52	6	no	6	12		
+2013-09-16	Zostera marina	6A54	6	no	6	12		
+2013-09-16	Zostera marina	6A64	6	no	6	12	0	0
+2013-09-16	Zostera marina	6A65	6	no	6	12	0	0
+2013-09-16	Zostera marina	6A72	6	no	6	12	0	0
+2013-09-16	Zostera marina	6B12	6	yes	6	12		
+2013-09-16	Zostera marina	6B20	6	yes	6	12		
+2013-09-16	Zostera marina	6B22	6	yes	6	12	75	50
+2013-09-16	Zostera marina	6B30	6	yes	6	12	75	75
+2013-09-16	Zostera marina	6B35	6	yes	6	12	50	50
+2013-09-16	Zostera marina	6B7	6	yes	6	12		
+2013-09-16	Zostera marina	8A42	57	yes	8	12	50	75
+2013-09-16	Zostera marina	8A45	57	yes	8	12		
+2013-09-16	Zostera marina	8A53	57	yes	8	12		
+2013-09-16	Zostera marina	8A57	57	yes	8	12		
+2013-09-16	Zostera marina	8A66	57	yes	8	12	50	50
+2013-09-16	Zostera marina	8A67	57	yes	8	12	25	25
+2013-09-16	Zostera marina	8B13	57	no	8	12		
+2013-09-16	Zostera marina	8B23	57	no	8	12		
+2013-09-16	Zostera marina	8B24	57	no	8	12	0	0
+2013-09-16	Zostera marina	8B31	57	no	8	12	0	0
+2013-09-16	Zostera marina	8B37	57	no	8	12	0	0
+2013-09-16	Zostera marina	8B9	57	no	8	12		
+2013-09-18	Zostera marina	10A36	6	no	10	14		
+2013-09-18	Zostera marina	10A38	6	no	10	14		
+2013-09-18	Zostera marina	10A46	6	no	10	14		
+2013-09-18	Zostera marina	10A55	6	no	10	14	0	0
+2013-09-18	Zostera marina	10A59	6	no	10	14	0	0
+2013-09-18	Zostera marina	10A68	6	no	10	14	0	0
+2013-09-18	Zostera marina	10B1	6	yes	10	14		
+2013-09-18	Zostera marina	10B11	6	yes	10	14		
+2013-09-18	Zostera marina	10B15	6	yes	10	14	50	75
+2013-09-18	Zostera marina	10B25	6	yes	10	14	75	75
+2013-09-18	Zostera marina	10B27	6	yes	10	14	75	75
+2013-09-18	Zostera marina	10B5	6	yes	10	14		
+2013-09-18	Zostera marina	11A39	57	yes	11	14		
+2013-09-18	Zostera marina	11A44	57	yes	11	14		
+2013-09-18	Zostera marina	11A48	57	yes	11	14	75	75
+2013-09-18	Zostera marina	11A56	57	yes	11	14	25	50
+2013-09-18	Zostera marina	11A60	57	yes	11	14	75	25
+2013-09-18	Zostera marina	11A69	57	yes	11	14		
+2013-09-18	Zostera marina	11B14	57	no	11	14		
+2013-09-18	Zostera marina	11B18	57	no	11	14	0	0
+2013-09-18	Zostera marina	11B2	57	no	11	14		
+2013-09-18	Zostera marina	11B26	57	no	11	14	0	0
+2013-09-18	Zostera marina	11B32	57	no	11	14	1	0
+2013-09-18	Zostera marina	11B6	57	no	11	14		
+2013-09-18	Zostera marina	12A40	6	no	12	14		
+2013-09-18	Zostera marina	12A47	6	no	12	14		
+2013-09-18	Zostera marina	12A49	6	no	12	14		
+2013-09-18	Zostera marina	12A58	6	no	12	14	0	0
+2013-09-18	Zostera marina	12A61	6	no	12	14	0	0
+2013-09-18	Zostera marina	12A70	6	no	12	14	0	0
+2013-09-18	Zostera marina	12B16	6	yes	12	14		
+2013-09-18	Zostera marina	12B19	6	yes	12	14	75	75
+2013-09-18	Zostera marina	12B28	6	yes	12	14	50	50
+2013-09-18	Zostera marina	12B3	6	yes	12	14		
+2013-09-18	Zostera marina	12B33	6	yes	12	14	25	75
+2013-09-18	Zostera marina	12B8	6	yes	12	14		
+2013-09-18	Zostera marina	5A41	57	yes	5	14		
+2013-09-18	Zostera marina	5A50	57	yes	5	14		
+2013-09-18	Zostera marina	5A51	57	yes	5	14		
+2013-09-18	Zostera marina	5A62	57	yes	5	14	50	75
+2013-09-18	Zostera marina	5A63	57	yes	5	14	50	75
+2013-09-18	Zostera marina	5A71	57	yes	5	14	50	75
+2013-09-18	Zostera marina	5B10	57	no	5	14		
+2013-09-18	Zostera marina	5B17	57	no	5	14		
+2013-09-18	Zostera marina	5B21	57	no	5	14	0	0
+2013-09-18	Zostera marina	5B29	57	no	5	14	0	0
+2013-09-18	Zostera marina	5B34	57	no	5	14	0	0
+2013-09-18	Zostera marina	5B4	57	no	5	14		
+2013-09-18	Zostera marina	6A43	6	no	6	14		
+2013-09-18	Zostera marina	6A52	6	no	6	14		
+2013-09-18	Zostera marina	6A54	6	no	6	14		
+2013-09-18	Zostera marina	6A64	6	no	6	14	0	0
+2013-09-18	Zostera marina	6A65	6	no	6	14	0	0
+2013-09-18	Zostera marina	6A72	6	no	6	14	0	0
+2013-09-18	Zostera marina	6B12	6	yes	6	14		
+2013-09-18	Zostera marina	6B20	6	yes	6	14		
+2013-09-18	Zostera marina	6B22	6	yes	6	14	75	75
+2013-09-18	Zostera marina	6B30	6	yes	6	14	75	75
+2013-09-18	Zostera marina	6B35	6	yes	6	14	50	50
+2013-09-18	Zostera marina	6B7	6	yes	6	14		
+2013-09-18	Zostera marina	8A42	57	yes	8	14	75	75
+2013-09-18	Zostera marina	8A45	57	yes	8	14		
+2013-09-18	Zostera marina	8A53	57	yes	8	14		
+2013-09-18	Zostera marina	8A57	57	yes	8	14		
+2013-09-18	Zostera marina	8A66	57	yes	8	14	75	75
+2013-09-18	Zostera marina	8A67	57	yes	8	14	25	25
+2013-09-18	Zostera marina	8B13	57	no	8	14		
+2013-09-18	Zostera marina	8B23	57	no	8	14		
+2013-09-18	Zostera marina	8B24	57	no	8	14	0	0
+2013-09-18	Zostera marina	8B31	57	no	8	14	0	0
+2013-09-18	Zostera marina	8B37	57	no	8	14	0	0
+2013-09-18	Zostera marina	8B9	57	no	8	14		
+2013-09-20	Zostera marina	10A36	6	no	10	16		
+2013-09-20	Zostera marina	10A38	6	no	10	16		
+2013-09-20	Zostera marina	10A46	6	no	10	16		
+2013-09-20	Zostera marina	10A55	6	no	10	16	0	0
+2013-09-20	Zostera marina	10A59	6	no	10	16	0	0
+2013-09-20	Zostera marina	10A68	6	no	10	16	0	0
+2013-09-20	Zostera marina	10B1	6	yes	10	16		
+2013-09-20	Zostera marina	10B11	6	yes	10	16		
+2013-09-20	Zostera marina	10B15	6	yes	10	16	50	75
+2013-09-20	Zostera marina	10B25	6	yes	10	16	75	75
+2013-09-20	Zostera marina	10B27	6	yes	10	16	75	
+2013-09-20	Zostera marina	10B5	6	yes	10	16		
+2013-09-20	Zostera marina	11A39	57	yes	11	16		
+2013-09-20	Zostera marina	11A44	57	yes	11	16		
+2013-09-20	Zostera marina	11A48	57	yes	11	16	75	75
+2013-09-20	Zostera marina	11A56	57	yes	11	16	25	50
+2013-09-20	Zostera marina	11A60	57	yes	11	16	75	50
+2013-09-20	Zostera marina	11A69	57	yes	11	16		
+2013-09-20	Zostera marina	11B14	57	no	11	16		
+2013-09-20	Zostera marina	11B18	57	no	11	16	0	0
+2013-09-20	Zostera marina	11B2	57	no	11	16		
+2013-09-20	Zostera marina	11B26	57	no	11	16	0	0
+2013-09-20	Zostera marina	11B32	57	no	11	16	1	0
+2013-09-20	Zostera marina	11B6	57	no	11	16		
+2013-09-20	Zostera marina	12A40	6	no	12	16		
+2013-09-20	Zostera marina	12A47	6	no	12	16		
+2013-09-20	Zostera marina	12A49	6	no	12	16		
+2013-09-20	Zostera marina	12A58	6	no	12	16	0	0
+2013-09-20	Zostera marina	12A61	6	no	12	16	0	0
+2013-09-20	Zostera marina	12A70	6	no	12	16		0
+2013-09-20	Zostera marina	12B16	6	yes	12	16		
+2013-09-20	Zostera marina	12B19	6	yes	12	16	75	75
+2013-09-20	Zostera marina	12B28	6	yes	12	16	50	50
+2013-09-20	Zostera marina	12B3	6	yes	12	16		
+2013-09-20	Zostera marina	12B33	6	yes	12	16	25	75
+2013-09-20	Zostera marina	12B8	6	yes	12	16		
+2013-09-20	Zostera marina	5A41	57	yes	5	16		
+2013-09-20	Zostera marina	5A50	57	yes	5	16		
+2013-09-20	Zostera marina	5A51	57	yes	5	16		
+2013-09-20	Zostera marina	5A62	57	yes	5	16	50	75
+2013-09-20	Zostera marina	5A63	57	yes	5	16	50	75
+2013-09-20	Zostera marina	5A71	57	yes	5	16	50	75
+2013-09-20	Zostera marina	5B10	57	no	5	16		
+2013-09-20	Zostera marina	5B17	57	no	5	16		
+2013-09-20	Zostera marina	5B21	57	no	5	16	0	0
+2013-09-20	Zostera marina	5B29	57	no	5	16	0	0
+2013-09-20	Zostera marina	5B34	57	no	5	16	0	0
+2013-09-20	Zostera marina	5B4	57	no	5	16		
+2013-09-20	Zostera marina	6A43	6	no	6	16		
+2013-09-20	Zostera marina	6A52	6	no	6	16		
+2013-09-20	Zostera marina	6A54	6	no	6	16		
+2013-09-20	Zostera marina	6A64	6	no	6	16	0	0
+2013-09-20	Zostera marina	6A65	6	no	6	16	0	0
+2013-09-20	Zostera marina	6A72	6	no	6	16	0	0
+2013-09-20	Zostera marina	6B12	6	yes	6	16		
+2013-09-20	Zostera marina	6B20	6	yes	6	16		
+2013-09-20	Zostera marina	6B22	6	yes	6	16	100	75
+2013-09-20	Zostera marina	6B30	6	yes	6	16	75	75
+2013-09-20	Zostera marina	6B35	6	yes	6	16	50	50
+2013-09-20	Zostera marina	6B7	6	yes	6	16		
+2013-09-20	Zostera marina	8A42	57	yes	8	16	75	75
+2013-09-20	Zostera marina	8A45	57	yes	8	16		
+2013-09-20	Zostera marina	8A53	57	yes	8	16		
+2013-09-20	Zostera marina	8A57	57	yes	8	16		
+2013-09-20	Zostera marina	8A66	57	yes	8	16	75	75
+2013-09-20	Zostera marina	8A67	57	yes	8	16	25	25
+2013-09-20	Zostera marina	8B13	57	no	8	16		
+2013-09-20	Zostera marina	8B23	57	no	8	16		
+2013-09-20	Zostera marina	8B24	57	no	8	16	0	0
+2013-09-20	Zostera marina	8B31	57	no	8	16	0	0
+2013-09-20	Zostera marina	8B37	57	no	8	16	0	0
+2013-09-20	Zostera marina	8B9	57	no	8	16		
+2013-09-24	Zostera marina	10A36	6	no	10	20		
+2013-09-24	Zostera marina	10A38	6	no	10	20		
+2013-09-24	Zostera marina	10A46	6	no	10	20		
+2013-09-24	Zostera marina	10A55	6	no	10	20	0	0
+2013-09-24	Zostera marina	10A59	6	no	10	20	0	0
+2013-09-24	Zostera marina	10A68	6	no	10	20	0	0
+2013-09-24	Zostera marina	10B1	6	yes	10	20		
+2013-09-24	Zostera marina	10B11	6	yes	10	20		
+2013-09-24	Zostera marina	10B15	6	yes	10	20	75	75
+2013-09-24	Zostera marina	10B25	6	yes	10	20	75	75
+2013-09-24	Zostera marina	10B27	6	yes	10	20	75	
+2013-09-24	Zostera marina	10B5	6	yes	10	20		
+2013-09-24	Zostera marina	11A39	57	yes	11	20		
+2013-09-24	Zostera marina	11A44	57	yes	11	20		
+2013-09-24	Zostera marina	11A48	57	yes	11	20	75	
+2013-09-24	Zostera marina	11A56	57	yes	11	20	50	75
+2013-09-24	Zostera marina	11A60	57	yes	11	20	75	75
+2013-09-24	Zostera marina	11A69	57	yes	11	20		
+2013-09-24	Zostera marina	11B14	57	no	11	20		
+2013-09-24	Zostera marina	11B18	57	no	11	20	0	0
+2013-09-24	Zostera marina	11B2	57	no	11	20		
+2013-09-24	Zostera marina	11B26	57	no	11	20	0	0
+2013-09-24	Zostera marina	11B32	57	no	11	20	1	0
+2013-09-24	Zostera marina	11B6	57	no	11	20		
+2013-09-24	Zostera marina	12A40	6	no	12	20		
+2013-09-24	Zostera marina	12A47	6	no	12	20		
+2013-09-24	Zostera marina	12A49	6	no	12	20		
+2013-09-24	Zostera marina	12A58	6	no	12	20	0	0
+2013-09-24	Zostera marina	12A61	6	no	12	20	0	0
+2013-09-24	Zostera marina	12A70	6	no	12	20		0
+2013-09-24	Zostera marina	12B16	6	yes	12	20		
+2013-09-24	Zostera marina	12B19	6	yes	12	20	75	75
+2013-09-24	Zostera marina	12B28	6	yes	12	20	75	75
+2013-09-24	Zostera marina	12B3	6	yes	12	20		
+2013-09-24	Zostera marina	12B33	6	yes	12	20	25	75
+2013-09-24	Zostera marina	12B8	6	yes	12	20		
+2013-09-24	Zostera marina	5A41	57	yes	5	20		
+2013-09-24	Zostera marina	5A50	57	yes	5	20		
+2013-09-24	Zostera marina	5A51	57	yes	5	20		
+2013-09-24	Zostera marina	5A62	57	yes	5	20	50	75
+2013-09-24	Zostera marina	5A63	57	yes	5	20	50	75
+2013-09-24	Zostera marina	5A71	57	yes	5	20	50	75
+2013-09-24	Zostera marina	5B10	57	no	5	20		
+2013-09-24	Zostera marina	5B17	57	no	5	20		
+2013-09-24	Zostera marina	5B21	57	no	5	20	0	0
+2013-09-24	Zostera marina	5B29	57	no	5	20	0	0
+2013-09-24	Zostera marina	5B34	57	no	5	20	0	0
+2013-09-24	Zostera marina	5B4	57	no	5	20		
+2013-09-24	Zostera marina	6A43	6	no	6	20		
+2013-09-24	Zostera marina	6A52	6	no	6	20		
+2013-09-24	Zostera marina	6A54	6	no	6	20		
+2013-09-24	Zostera marina	6A64	6	no	6	20	0	0
+2013-09-24	Zostera marina	6A65	6	no	6	20	0	0
+2013-09-24	Zostera marina	6A72	6	no	6	20	0	0
+2013-09-24	Zostera marina	6B12	6	yes	6	20		
+2013-09-24	Zostera marina	6B20	6	yes	6	20		
+2013-09-24	Zostera marina	6B22	6	yes	6	20	100	
+2013-09-24	Zostera marina	6B30	6	yes	6	20	75	75
+2013-09-24	Zostera marina	6B35	6	yes	6	20	75	75
+2013-09-24	Zostera marina	6B7	6	yes	6	20		
+2013-09-24	Zostera marina	8A42	57	yes	8	20		
+2013-09-24	Zostera marina	8A45	57	yes	8	20		
+2013-09-24	Zostera marina	8A53	57	yes	8	20		
+2013-09-24	Zostera marina	8A57	57	yes	8	20		
+2013-09-24	Zostera marina	8A66	57	yes	8	20	75	75
+2013-09-24	Zostera marina	8A67	57	yes	8	20	50	25
+2013-09-24	Zostera marina	8B13	57	no	8	20		
+2013-09-24	Zostera marina	8B23	57	no	8	20		
+2013-09-24	Zostera marina	8B24	57	no	8	20	0	0
+2013-09-24	Zostera marina	8B31	57	no	8	20	0	0
+2013-09-24	Zostera marina	8B37	57	no	8	20	0	0
+2013-09-24	Zostera marina	8B9	57	no	8	20		

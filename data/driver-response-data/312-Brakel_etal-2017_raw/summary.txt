@@ -1,0 +1,13 @@
+/* DATA DESCRIPTION:
+Citation:	Brakel, Janina; Reusch, Thorsten B H; Bockelmann, Anna-Christina (2016): Zostera marina gene expression, growth parameters and wasting disease index of Labyrinthula zosterae inoculated plants at two nutrient levels. PANGAEA, https://doi.org/10.1594/PANGAEA.869864, 
+	Supplement to: Brakel, J et al. (2017): Moderate virulence caused by the protist Labyrinthula zosterae in ecosystem foundation species Zostera marina under nutrient limitation. Marine Ecology Progress Series, 571, 97-108, https://doi.org/10.3354/meps12104
+Abstract:	In a mesocosm experiment Zostera marina plants were exposed to nutrient limitation and inoculation with the protist Labyrinthula zosterae in a fully crossed design. 2 days post inoculation and 20 days post abundance of Labyrinthula zosterae within eelgrass tissue were determined by real-time quantitative PCR, together with gene expression of 15 targeted genes. Further we analysed wasting disease symptoms over the course of 20 days and determined eelgrass growth parameters as leaf growth rate, biomass production, leaf and shoot production.
+Coverage:	DATE/TIME START: 2013-09-01T00:00:00 * DATE/TIME END: 2013-09-24T00:00:00
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	3 datasets
+*/
+/* TABULAR SUMMARY OF DATASETS LISTED IN THIS COLLECTION: */
+Filename	Citation of child dataset
+z_marina_L_zosterae_gene_exp.tab	Brakel, Janina (2016): Zostera marina gene expression of Labyrinthula zosterae inoculated plants at two nutrient levels. https://doi.org/10.1594/PANGAEA.869860
+z_marina_L_zosterae_growth.tab	Brakel, Janina (2016): Zostera marina growth parameters of Labyrinthula zosterae inoculated plants at two nutrient levels. https://doi.org/10.1594/PANGAEA.869862
+z_marina_L_zosterae_wasting_disease.tab	Brakel, Janina (2016): Zostera marina wasting disease index of Labyrinthula zosterae inoculated plants at two nutrient levels. https://doi.org/10.1594/PANGAEA.869863
